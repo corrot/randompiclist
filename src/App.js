@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Chooser from './Components/Chooser';
 
